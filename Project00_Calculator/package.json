@@ -5,7 +5,8 @@
   "type": "module",
   "bin": "index.js",
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://github.com/Hamza-Sheikh-02/Node-Projects/tree/main/Project00_Calculator"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
