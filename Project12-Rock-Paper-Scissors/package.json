@@ -7,12 +7,16 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hamza-Sheikh-02/Node-Projects/tree/main/Project12-Rock-Paper-Scissors"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Hamza Sheikh",
-  "license": "ISC",
+  "license": "MIT",
   "description": "",
   "devDependencies": {
     "@types/inquirer": "^9.0.7",
